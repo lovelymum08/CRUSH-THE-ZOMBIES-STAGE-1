@@ -1,2 +1,2 @@
-# CRUSH-THE-ZOMBIES-STAGE-1
-game
+# zombie-crush-1
+project solution for c29
